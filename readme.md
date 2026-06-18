@@ -1,2 +1,2 @@
-# This is my fist repo
+# This is my first repo
 <p>Hello there</p>
